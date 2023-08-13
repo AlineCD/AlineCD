@@ -1,7 +1,7 @@
 ## Olá seja bem-vindo(a)!! Eu sou Aline Conti!✌️
 
 
-### Tecnologias utilizadas no trabalho e nos estudos no meu dia a dia:
+### Tecnologias utilizadas no trabalho e nos estudos:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
